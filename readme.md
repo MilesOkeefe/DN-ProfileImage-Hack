@@ -10,3 +10,7 @@ Layervault will probably fix this super fast, but hey, fun in the meantime.
 Live demo here:
 
 http://milesokeefe.com/dn/index.html
+
+**Update**
+
+It's been fixed. I'll keep this up for posterity though.
